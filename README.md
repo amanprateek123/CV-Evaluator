@@ -1,40 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CV Evaluator - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 10px;
-      border: 1px solid #ddd;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 2px 4px;
-      border-radius: 3px;
-    }
-    ul {
-      margin: 10px 0;
-      padding-left: 20px;
-    }
-    li {
-      margin-bottom: 5px;
-    }
-  </style>
-</head>
-<body>
 
 <h1>CV Evaluator</h1>
 
@@ -135,6 +98,3 @@ NEXT_PUBLIC_API_URL=http://localhost:3001
 <h2>Author</h2>
 <p>Aman Prateek</p>
 <p>amanpra333@gmail.com</p>
-
-</body>
-</html>
